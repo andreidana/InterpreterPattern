@@ -24,4 +24,4 @@ Use the Interpreter pattern when there is a language to interpret, and you can r
 - [Composite](https://github.com/andreidana/CompositePattern)
 - [Flyweight](https://github.com/andreidana/FlyweightExample)
 - [Iterator](https://github.com/andreidana/IteratorPattern)
-- Visitor
+- [Visitor](https://github.com/andreidana/VisitorPattern)
